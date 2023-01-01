@@ -6,5 +6,7 @@ At the end of the project, the compilation of the game design is found to be suc
 
 REFERENCES
 • FPGA: A Dice Game Example. 2017 IEEE 2nd International Conference on Signal and Image Processing, pp. 418-422
-• DIGITAL SYSTEM DESIGN USING VERILOG :First edition,pg no 296-305 https://drive.google.com/file/d/1XAxh2rKqI1hs4nymNgdidR4eIG3xUDqV/view?usp=sharing
+
+• DIGITAL SYSTEM DESIGN USING VERILOG :First edition,pg no 296-305
+   https://drive.google.com/file/d/1XAxh2rKqI1hs4nymNgdidR4eIG3xUDqV/view?usp=sharing
 • Youtube: https://youtu.be/6w4POEj8kEo
